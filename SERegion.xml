@@ -15,7 +15,7 @@
 </gs:LocationPreferences>
 <gs:MUILanguagePreferences>
 	<gs:MUILanguage Value="sv-SE"/>
-	<gs:MUIFallback Value="en-GB"/>
+	<gs:MUIFallback Value="en-SE"/>
 </gs:MUILanguagePreferences>
 <!-- input preferences -->
 <gs:InputPreferences>
