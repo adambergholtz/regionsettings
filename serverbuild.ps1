@@ -1,6 +1,5 @@
-$regionalsettingsURL = "sökväg till storageaccount\SEregion.xml"
-$RegionalSettings = "storage account\SERegion.xml"
-
+$regionalsettingsURL = "https://github.com/adambergholtz/regionsettings/blob/9345b91a94184c5566eded8ee8422b412b6ce76d/SERegion.xml"
+$RegionalSettings = "C:\SERegion.xml"
 
 
 #downdload regional settings file
